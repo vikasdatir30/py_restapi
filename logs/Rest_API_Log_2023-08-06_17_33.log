@@ -1,0 +1,6 @@
+2023-08-06 17:33:50 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8563
+2023-08-06 17:33:50 [INFO]: [33mPress CTRL+C to quit[0m
+2023-08-06 17:33:53 [INFO]: 127.0.0.1 - - [06/Aug/2023 17:33:53] "GET / HTTP/1.1" 200 -
+2023-08-06 17:34:05 [INFO]: 127.0.0.1 - - [06/Aug/2023 17:34:05] "GET /get_by_id/25 HTTP/1.1" 200 -
+2023-08-06 17:34:14 [INFO]: 127.0.0.1 - - [06/Aug/2023 17:34:14] "GET /get_n_rows/100 HTTP/1.1" 200 -
